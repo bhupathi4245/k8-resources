@@ -1,3 +1,4 @@
+# Session 72 - DaemonSet Example: Fluentd for Log Collection
 apiVersion: apps/v1
 kind: DaemonSet
 metadata:
